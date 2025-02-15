@@ -20,6 +20,8 @@ int main()
     b = temp;
     cout << "After swapping a = " << a << " , b = " << b
          << endl;
+    cout << "After swapping a = " << a << " , b = " << b
+         << endl;
 
     return 0;
 }
